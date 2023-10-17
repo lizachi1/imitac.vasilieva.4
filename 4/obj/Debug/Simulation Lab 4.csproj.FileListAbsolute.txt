@@ -1,0 +1,11 @@
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\bin\Debug\Simulation Lab 4.exe.config
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\bin\Debug\Simulation Lab 4.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\bin\Debug\Simulation Lab 4.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\obj\Debug\Simulation Lab 4.csproj.AssemblyReference.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\obj\Debug\Simulation Lab 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\obj\Debug\Simulation_Lab_4.Form1.resources
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\obj\Debug\Simulation_Lab_4.Properties.Resources.resources
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\obj\Debug\Simulation Lab 4.csproj.GenerateResource.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\obj\Debug\Simulation Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\obj\Debug\Simulation Lab 4.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\имитац мод\4\obj\Debug\Simulation Lab 4.pdb
